@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00037.jpg'>
+    <box top='126' left='140' width='43' height='57'/>
+    <box top='107' left='223' width='41' height='61'/>
+    <box top='147' left='267' width='47' height='75'/>
+    <box top='91' left='517' width='35' height='66'/>
+    <box top='97' left='666' width='38' height='56'/>
+    <box top='56' left='637' width='33' height='44'/>
+    <box top='157' left='789' width='48' height='63'/>
+    <box top='125' left='834' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00038.jpg'>
+    <box top='126' left='146' width='39' height='57'/>
+    <box top='102' left='227' width='41' height='61'/>
+    <box top='151' left='265' width='47' height='75'/>
+    <box top='83' left='540' width='36' height='66'/>
+    <box top='92' left='661' width='38' height='59'/>
+    <box top='55' left='631' width='33' height='44'/>
+    <box top='151' left='777' width='48' height='63'/>
+    <box top='120' left='829' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00039.jpg'>
+    <box top='126' left='146' width='39' height='57'/>
+    <box top='100' left='216' width='41' height='61'/>
+    <box top='170' left='218' width='47' height='75'/>
+    <box top='79' left='535' width='36' height='60'/>
+    <box top='81' left='656' width='38' height='59'/>
+    <box top='56' left='634' width='33' height='44'/>
+    <box top='143' left='789' width='47' height='68'/>
+    <box top='117' left='817' width='34' height='45'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00040.jpg'>
+    <box top='126' left='146' width='39' height='57'/>
+    <box top='99' left='211' width='42' height='58'/>
+    <box top='178' left='215' width='53' height='82'/>
+    <box top='74' left='519' width='36' height='60'/>
+    <box top='77' left='651' width='35' height='55'/>
+    <box top='54' left='636' width='28' height='44'/>
+    <box top='146' left='822' width='42' height='63'/>
+    <box top='118' left='812' width='36' height='55'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00068.jpg'>
+    <box top='74' left='322' width='43' height='58'/>
+    <box top='56' left='383' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='48' left='701' width='26' height='38'/>
+    <box top='84' left='542' width='39' height='61'/>
+    <box top='156' left='353' width='53' height='80'/>
+    <box top='104' left='464' width='47' height='73'/>
+    <box top='168' left='541' width='54' height='84'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00069.jpg'>
+    <box top='68' left='334' width='32' height='56'/>
+    <box top='56' left='391' width='31' height='51'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='47' left='699' width='26' height='38'/>
+    <box top='79' left='548' width='39' height='63'/>
+    <box top='144' left='374' width='53' height='80'/>
+    <box top='107' left='484' width='42' height='68'/>
+    <box top='169' left='551' width='54' height='87'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00070.jpg'>
+    <box top='76' left='348' width='38' height='56'/>
+    <box top='57' left='383' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='47' left='699' width='26' height='38'/>
+    <box top='80' left='542' width='39' height='61'/>
+    <box top='119' left='365' width='49' height='77'/>
+    <box top='110' left='485' width='42' height='68'/>
+    <box top='160' left='549' width='54' height='83'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00071.jpg'>
+    <box top='94' left='331' width='43' height='65'/>
+    <box top='57' left='386' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='46' left='697' width='26' height='38'/>
+    <box top='83' left='552' width='39' height='61'/>
+    <box top='103' left='393' width='40' height='66'/>
+    <box top='110' left='485' width='42' height='68'/>
+    <box top='165' left='554' width='54' height='83'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00072.jpg'>
+    <box top='121' left='301' width='43' height='65'/>
+    <box top='55' left='381' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='43' left='689' width='26' height='38'/>
+    <box top='87' left='555' width='39' height='61'/>
+    <box top='85' left='419' width='40' height='63'/>
+    <box top='110' left='485' width='42' height='68'/>
+    <box top='166' left='557' width='54' height='83'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00073.jpg'>
+    <box top='137' left='282' width='49' height='72'/>
+    <box top='55' left='381' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='44' left='695' width='26' height='38'/>
+    <box top='89' left='572' width='25' height='41'/>
+    <box top='76' left='421' width='40' height='57'/>
+    <box top='186' left='473' width='87' height='104' ignore='1'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00074.jpg'>
+    <box top='157' left='247' width='49' height='72'/>
+    <box top='55' left='381' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='44' left='695' width='26' height='38'/>
+    <box top='104' left='513' width='42' height='66'/>
+    <box top='72' left='451' width='40' height='57'/>
+    <box top='85' left='554' width='39' height='60'/>
+    <box top='137' left='568' width='50' height='75'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00075.jpg'>
+    <box top='164' left='231' width='49' height='72'/>
+    <box top='59' left='379' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='47' left='697' width='26' height='38'/>
+    <box top='114' left='527' width='42' height='66'/>
+    <box top='96' left='454' width='42' height='62'/>
+    <box top='86' left='556' width='37' height='59'/>
+    <box top='78' left='502' width='33' height='56'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00076.jpg'>
+    <box top='164' left='231' width='49' height='72'/>
+    <box top='53' left='397' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='47' left='697' width='26' height='38'/>
+    <box top='236' left='477' width='78' height='127' ignore='1'/>
+    <box top='99' left='420' width='42' height='62'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00077.jpg'>
+    <box top='163' left='232' width='49' height='76'/>
+    <box top='53' left='430' width='31' height='46'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='56' left='703' width='26' height='38'/>
+    <box top='309' left='532' width='133' height='134' ignore='1'/>
+    <box top='97' left='423' width='42' height='62'/>
+    <box top='76' left='483' width='39' height='56'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00078.jpg'>
+    <box top='164' left='235' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='64' left='710' width='26' height='38'/>
+    <box top='177' left='636' width='85' height='105' ignore='1'/>
+    <box top='98' left='411' width='42' height='62'/>
+    <box top='51' left='468' width='28' height='47'/>
+    <box top='79' left='589' width='32' height='51'/>
+    <box top='97' left='553' width='36' height='51'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00079.jpg'>
+    <box top='164' left='235' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='164' left='59' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='69' left='709' width='32' height='50'/>
+    <box top='96' left='411' width='42' height='64'/>
+    <box top='53' left='500' width='31' height='49'/>
+    <box top='84' left='606' width='37' height='61'/>
+    <box top='85' left='553' width='36' height='60'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00080.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='146' left='47' width='25' height='38' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='80' left='717' width='32' height='50'/>
+    <box top='96' left='411' width='42' height='64'/>
+    <box top='54' left='533' width='31' height='49'/>
+    <box top='92' left='649' width='37' height='61'/>
+    <box top='85' left='553' width='36' height='60'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00081.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='128' left='8' width='31' height='54' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='91' left='723' width='32' height='50'/>
+    <box top='96' left='411' width='42' height='64'/>
+    <box top='56' left='575' width='24' height='47'/>
+    <box top='94' left='691' width='37' height='61'/>
+    <box top='86' left='550' width='35' height='58'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00082.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='198' left='478' width='63' height='156' ignore='1'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='99' left='726' width='32' height='50'/>
+    <box top='96' left='412' width='41' height='64'/>
+    <box top='63' left='607' width='29' height='47'/>
+    <box top='113' left='738' width='34' height='56'/>
+    <box top='90' left='542' width='35' height='58'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00083.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='101' left='717' width='36' height='54'/>
+    <box top='96' left='412' width='41' height='64'/>
+    <box top='62' left='634' width='29' height='47'/>
+    <box top='115' left='754' width='37' height='56'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00084.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='109' left='719' width='36' height='54'/>
+    <box top='96' left='412' width='41' height='64'/>
+    <box top='61' left='630' width='29' height='47'/>
+    <box top='105' left='753' width='31' height='56'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00085.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='70' left='447' width='32' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='125' left='738' width='39' height='57'/>
+    <box top='96' left='412' width='41' height='64'/>
+    <box top='62' left='640' width='29' height='47'/>
+    <box top='114' left='780' width='33' height='54'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00086.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='121' left='738' width='39' height='61'/>
+    <box top='97' left='411' width='41' height='64'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='119' left='795' width='33' height='54'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00087.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='124' left='747' width='39' height='61'/>
+    <box top='97' left='411' width='41' height='64'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='123' left='810' width='33' height='54'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00088.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='124' left='747' width='39' height='61'/>
+    <box top='97' left='411' width='41' height='64'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='133' left='828' width='33' height='54'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00089.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='97' left='411' width='41' height='64'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='105' left='819' width='33' height='54'/>
+    <box top='91' left='537' width='37' height='61'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00090.jpg'>
+    <box top='163' left='244' width='49' height='76'/>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='97' left='411' width='41' height='64'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='125' left='746' width='42' height='62'/>
+    <box top='91' left='537' width='37' height='61'/>
+    <box top='240' left='928' width='32' height='55'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00091.jpg'>
+    <box top='212' left='287' width='73' height='114' ignore='1'/>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='154' left='880' width='35' height='52'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='97' left='411' width='41' height='64'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='125' left='746' width='42' height='62'/>
+    <box top='91' left='537' width='37' height='61'/>
+    <box top='240' left='928' width='32' height='55'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00092.jpg'>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='96' left='410' width='41' height='67'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='125' left='746' width='42' height='62'/>
+    <box top='91' left='537' width='37' height='61'/>
+    <box top='160' left='246' width='50' height='80'/>
+    <box top='74' left='241' width='34' height='49'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00093.jpg'>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='96' left='410' width='41' height='67'/>
+    <box top='65' left='644' width='32' height='47'/>
+    <box top='125' left='746' width='42' height='62'/>
+    <box top='91' left='537' width='37' height='61'/>
+    <box top='160' left='246' width='50' height='80'/>
+    <box top='74' left='241' width='34' height='49'/>
+    <box top='156' left='880' width='38' height='55'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00094.jpg'>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='96' left='410' width='41' height='67'/>
+    <box top='64' left='652' width='32' height='47'/>
+    <box top='128' left='758' width='42' height='62'/>
+    <box top='100' left='505' width='37' height='61'/>
+    <box top='160' left='246' width='50' height='80'/>
+    <box top='74' left='241' width='34' height='49'/>
+    <box top='146' left='867' width='38' height='55'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00095.jpg'>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='96' left='410' width='41' height='67'/>
+    <box top='61' left='648' width='32' height='47'/>
+    <box top='122' left='752' width='42' height='62'/>
+    <box top='100' left='470' width='39' height='67'/>
+    <box top='156' left='254' width='50' height='80'/>
+    <box top='74' left='241' width='34' height='49'/>
+    <box top='135' left='858' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00096.jpg'>
+    <box top='68' left='449' width='34' height='54'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='94' left='415' width='28' height='54'/>
+    <box top='63' left='657' width='32' height='47'/>
+    <box top='121' left='763' width='42' height='62'/>
+    <box top='112' left='421' width='39' height='67'/>
+    <box top='134' left='304' width='50' height='80'/>
+    <box top='83' left='249' width='34' height='49'/>
+    <box top='129' left='849' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00097.jpg'>
+    <box top='71' left='464' width='30' height='57'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='96' left='434' width='33' height='61'/>
+    <box top='63' left='652' width='32' height='47'/>
+    <box top='121' left='763' width='42' height='62'/>
+    <box top='129' left='374' width='39' height='69'/>
+    <box top='129' left='333' width='48' height='83'/>
+    <box top='96' left='234' width='34' height='51'/>
+    <box top='129' left='849' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00098.jpg'>
+    <box top='69' left='501' width='24' height='32'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='89' left='493' width='33' height='60'/>
+    <box top='59' left='615' width='32' height='47'/>
+    <box top='121' left='762' width='43' height='62'/>
+    <box top='131' left='367' width='40' height='72'/>
+    <box top='141' left='330' width='48' height='74'/>
+    <box top='104' left='219' width='35' height='55'/>
+    <box top='127' left='846' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00099.jpg'>
+    <box top='75' left='546' width='23' height='32'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='146' width='39' height='55'/>
+    <box top='87' left='528' width='33' height='58'/>
+    <box top='56' left='583' width='32' height='47'/>
+    <box top='118' left='759' width='43' height='62'/>
+    <box top='132' left='362' width='36' height='69'/>
+    <box top='141' left='332' width='45' height='74'/>
+    <box top='109' left='205' width='35' height='55'/>
+    <box top='226' left='926' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00100.jpg'>
+    <box top='56' left='548' width='28' height='44'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='125' left='147' width='39' height='55'/>
+    <box top='87' left='555' width='39' height='62'/>
+    <box top='71' left='586' width='32' height='50'/>
+    <box top='118' left='759' width='43' height='62'/>
+    <box top='131' left='349' width='36' height='69'/>
+    <box top='143' left='316' width='45' height='74'/>
+    <box top='101' left='209' width='35' height='55'/>
+    <box top='128' left='846' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00101.jpg'>
+    <box top='54' left='515' width='28' height='44'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='125' left='147' width='39' height='55'/>
+    <box top='91' left='568' width='39' height='62'/>
+    <box top='68' left='579' width='32' height='45'/>
+    <box top='121' left='760' width='43' height='62'/>
+    <box top='131' left='349' width='36' height='69'/>
+    <box top='134' left='318' width='43' height='74'/>
+    <box top='105' left='207' width='35' height='55'/>
+    <box top='127' left='844' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00102.jpg'>
+    <box top='52' left='482' width='28' height='46'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='125' left='147' width='39' height='55'/>
+    <box top='91' left='568' width='39' height='62'/>
+    <box top='64' left='584' width='27' height='49'/>
+    <box top='115' left='755' width='40' height='62'/>
+    <box top='129' left='346' width='34' height='66'/>
+    <box top='138' left='325' width='33' height='70'/>
+    <box top='107' left='217' width='35' height='55'/>
+    <box top='127' left='844' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00103.jpg'>
+    <box top='53' left='447' width='28' height='46'/>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='125' left='147' width='39' height='55'/>
+    <box top='101' left='568' width='45' height='62'/>
+    <box top='66' left='591' width='33' height='51'/>
+    <box top='117' left='752' width='40' height='62'/>
+    <box top='132' left='325' width='42' height='68'/>
+    <box top='102' left='235' width='35' height='55'/>
+    <box top='127' left='844' width='35' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00144.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='129' left='148' width='34' height='53'/>
+    <box top='69' left='465' width='31' height='51'/>
+    <box top='161' left='537' width='48' height='79'/>
+    <box top='135' left='856' width='30' height='49'/>
+    <box top='56' left='374' width='28' height='48'/>
+    <box top='69' left='600' width='33' height='49'/>
+    <box top='47' left='702' width='26' height='39'/>
+    <box top='100' left='225' width='38' height='55'/>
+    <box top='83' left='564' width='35' height='57'/>
+    <box top='61' left='453' width='23' height='39'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00145.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='129' left='148' width='34' height='53'/>
+    <box top='66' left='473' width='31' height='51'/>
+    <box top='148' left='471' width='48' height='79'/>
+    <box top='135' left='856' width='30' height='49'/>
+    <box top='56' left='374' width='28' height='48'/>
+    <box top='66' left='601' width='28' height='49'/>
+    <box top='47' left='701' width='26' height='39'/>
+    <box top='94' left='234' width='34' height='53'/>
+    <box top='97' left='615' width='35' height='57'/>
+    <box top='58' left='457' width='26' height='46'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00146.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='123' left='173' width='34' height='53'/>
+    <box top='67' left='476' width='31' height='51'/>
+    <box top='146' left='436' width='48' height='79'/>
+    <box top='135' left='856' width='30' height='49'/>
+    <box top='56' left='370' width='28' height='48'/>
+    <box top='67' left='606' width='26' height='47'/>
+    <box top='47' left='701' width='26' height='39'/>
+    <box top='93' left='248' width='34' height='53'/>
+    <box top='97' left='615' width='35' height='57'/>
+    <box top='60' left='454' width='33' height='48'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00185.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='126' left='151' width='34' height='53'/>
+    <box top='93' left='411' width='37' height='63'/>
+    <box top='137' left='853' width='35' height='50'/>
+    <box top='60' left='640' width='30' height='48'/>
+    <box top='99' left='776' width='31' height='51'/>
+    <box top='121' left='733' width='37' height='63'/>
+    <box top='171' left='242' width='47' height='81'/>
+    <box top='68' left='451' width='32' height='54'/>
+    <box top='100' left='219' width='36' height='52'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00186.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='126' left='151' width='34' height='53'/>
+    <box top='93' left='411' width='37' height='63'/>
+    <box top='137' left='853' width='35' height='50'/>
+    <box top='60' left='640' width='30' height='48'/>
+    <box top='99' left='776' width='31' height='51'/>
+    <box top='121' left='733' width='37' height='63'/>
+    <box top='171' left='242' width='47' height='81'/>
+    <box top='68' left='451' width='32' height='54'/>
+    <box top='100' left='219' width='36' height='52'/>
+    <box top='116' left='535' width='27' height='47'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00187.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='126' left='151' width='34' height='53'/>
+    <box top='93' left='411' width='37' height='63'/>
+    <box top='137' left='853' width='35' height='50'/>
+    <box top='60' left='640' width='30' height='48'/>
+    <box top='99' left='776' width='31' height='51'/>
+    <box top='121' left='733' width='37' height='63'/>
+    <box top='171' left='242' width='47' height='81'/>
+    <box top='68' left='451' width='32' height='54'/>
+    <box top='100' left='219' width='36' height='52'/>
+    <box top='116' left='535' width='27' height='47'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00213.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='124' left='153' width='34' height='56'/>
+    <box top='93' left='589' width='41' height='60'/>
+    <box top='56' left='365' width='28' height='45'/>
+    <box top='123' left='408' width='44' height='71'/>
+    <box top='121' left='757' width='42' height='55'/>
+    <box top='78' left='626' width='34' height='56'/>
+    <box top='131' left='846' width='31' height='51'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00214.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='124' left='153' width='34' height='56'/>
+    <box top='95' left='560' width='41' height='64'/>
+    <box top='56' left='365' width='28' height='45'/>
+    <box top='123' left='408' width='44' height='71'/>
+    <box top='113' left='736' width='36' height='55'/>
+    <box top='78' left='626' width='34' height='56'/>
+    <box top='131' left='846' width='31' height='51'/>
+    <box top='129' left='831' width='26' height='39'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00215.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='124' left='153' width='34' height='56'/>
+    <box top='94' left='499' width='41' height='64'/>
+    <box top='56' left='365' width='28' height='45'/>
+    <box top='123' left='408' width='44' height='71'/>
+    <box top='109' left='691' width='39' height='63'/>
+    <box top='78' left='626' width='34' height='56'/>
+    <box top='131' left='846' width='31' height='51'/>
+    <box top='119' left='833' width='27' height='48'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00246.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='115' left='164' width='33' height='52'/>
+    <box top='110' left='841' width='26' height='44'/>
+    <box top='58' left='499' width='32' height='48'/>
+    <box top='45' left='692' width='26' height='38'/>
+    <box top='117' left='293' width='48' height='68'/>
+    <box top='157' left='879' width='36' height='53'/>
+    <box top='117' left='443' width='38' height='71'/>
+    <box top='96' left='481' width='39' height='63'/>
+    <box top='78' left='260' width='23' height='33'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00247.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='113' left='174' width='30' height='48'/>
+    <box top='109' left='841' width='26' height='45'/>
+    <box top='56' left='482' width='32' height='48'/>
+    <box top='45' left='692' width='26' height='38'/>
+    <box top='114' left='328' width='48' height='68'/>
+    <box top='157' left='879' width='36' height='53'/>
+    <box top='119' left='417' width='44' height='71'/>
+    <box top='96' left='521' width='35' height='63'/>
+    <box top='76' left='258' width='26' height='38'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00248.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='56' left='445' width='32' height='48'/>
+    <box top='45' left='692' width='26' height='38'/>
+    <box top='105' left='381' width='40' height='66'/>
+    <box top='119' left='417' width='44' height='71'/>
+    <box top='96' left='582' width='35' height='63'/>
+    <box top='70' left='253' width='31' height='44'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00249.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='56' left='413' width='32' height='48'/>
+    <box top='45' left='692' width='26' height='38'/>
+    <box top='127' left='378' width='40' height='68'/>
+    <box top='104' left='403' width='46' height='67'/>
+    <box top='98' left='608' width='42' height='69'/>
+    <box top='80' left='245' width='31' height='44'/>
+    <box top='122' left='182' width='28' height='40'/>
+    <box top='45' left='716' width='24' height='37'/>
+    <box top='158' left='881' width='36' height='53'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00250.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='56' left='380' width='32' height='48'/>
+    <box top='45' left='692' width='26' height='38'/>
+    <box top='129' left='354' width='40' height='68'/>
+    <box top='106' left='381' width='38' height='67'/>
+    <box top='105' left='584' width='38' height='69'/>
+    <box top='85' left='243' width='36' height='49'/>
+    <box top='109' left='183' width='34' height='51'/>
+    <box top='45' left='716' width='24' height='37'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00251.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='57' left='368' width='28' height='46'/>
+    <box top='45' left='692' width='26' height='38'/>
+    <box top='142' left='331' width='40' height='68'/>
+    <box top='115' left='342' width='34' height='57'/>
+    <box top='101' left='586' width='35' height='66'/>
+    <box top='89' left='252' width='36' height='49'/>
+    <box top='111' left='177' width='34' height='51'/>
+    <box top='45' left='716' width='24' height='37'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00268.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='58' left='379' width='28' height='44'/>
+    <box top='145' left='397' width='48' height='76'/>
+    <box top='245' left='120' width='90' height='102' ignore='1'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='53' left='708' width='26' height='40'/>
+    <box top='46' left='665' width='27' height='39'/>
+    <box top='134' left='286' width='51' height='71'/>
+    <box top='281' left='780' width='65' height='94'/>
+    <box top='159' left='879' width='38' height='54'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00269.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='58' left='379' width='28' height='44'/>
+    <box top='142' left='405' width='48' height='76'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='52' left='713' width='26' height='37'/>
+    <box top='43' left='657' width='27' height='39'/>
+    <box top='141' left='278' width='47' height='68'/>
+    <box top='262' left='756' width='58' height='89'/>
+    <box top='159' left='879' width='38' height='54'/>
+    <box top='127' left='301' width='29' height='50'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00270.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='58' left='379' width='30' height='48'/>
+    <box top='136' left='407' width='48' height='76'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='51' left='723' width='26' height='38'/>
+    <box top='44' left='660' width='24' height='39'/>
+    <box top='141' left='278' width='47' height='68'/>
+    <box top='200' left='694' width='58' height='85'/>
+    <box top='159' left='879' width='38' height='54'/>
+    <box top='119' left='298' width='29' height='50'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00271.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='58' left='379' width='30' height='48'/>
+    <box top='136' left='407' width='48' height='76'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='53' left='727' width='26' height='38'/>
+    <box top='44' left='660' width='24' height='39'/>
+    <box top='134' left='269' width='47' height='68'/>
+    <box top='204' left='684' width='58' height='85'/>
+    <box top='157' left='883' width='33' height='53'/>
+    <box top='121' left='273' width='24' height='36'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00272.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='56' left='376' width='30' height='48'/>
+    <box top='139' left='397' width='48' height='76'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='53' left='727' width='26' height='38'/>
+    <box top='44' left='660' width='24' height='39'/>
+    <box top='125' left='254' width='47' height='68'/>
+    <box top='225' left='629' width='57' height='94'/>
+    <box top='157' left='883' width='33' height='53'/>
+    <box top='140' left='322' width='44' height='74'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00277.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='56' left='379' width='30' height='48'/>
+    <box top='137' left='423' width='41' height='68'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='76' left='724' width='28' height='46'/>
+    <box top='45' left='668' width='24' height='37'/>
+    <box top='123' left='334' width='47' height='71'/>
+    <box top='118' left='497' width='45' height='70'/>
+    <box top='157' left='883' width='33' height='53'/>
+    <box top='145' left='392' width='43' height='75'/>
+  </image>
+  <image file='2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2 - 00278.jpg'>
+    <box top='157' left='79' width='24' height='38' ignore='1'/>
+    <box top='59' left='375' width='30' height='48'/>
+    <box top='141' left='421' width='36' height='69'/>
+    <box top='127' left='149' width='37' height='51'/>
+    <box top='86' left='724' width='31' height='48'/>
+    <box top='45' left='668' width='24' height='37'/>
+    <box top='117' left='380' width='32' height='65'/>
+    <box top='108' left='540' width='38' height='66'/>
+    <box top='157' left='883' width='33' height='53'/>
+    <box top='149' left='396' width='43' height='75'/>
+  </image>
+</images>
+</dataset>

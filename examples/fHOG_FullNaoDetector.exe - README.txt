@@ -1,0 +1,31 @@
+The full Nao Detector can run a set of different commands to execute different tasks. You can list the options with -h.
+The available options are:
+-train = "Train a fHOG detector SVM with given training and testing XML."
+-test = "Test an already trained fHOG detector on testing XML."
+-track = "Track detected (or selected) objects in a videostream."
+-cross = "Execute cross-validation evaluation on dataset."
+-ball = "Train ball specific fHOG with cross-validation and parameter optimization"
+-eval = "Bulk evaluate already existing fHOGs."
+-pose = "Run a set of pose detectors on a given set of images."
+-visualize = "Shows extra images and visualizations while running through one program, e.g. for -cross every image splitted by folds is shown."
+-video = "Tries to process input images as fast as possible, can be used to scan through a video"
+-threshold = "Use incremental threshold values to evaluate learned detector during test or evaluation phase."
+-nnr = "Use a nuclear norm regularizer for detector training."
+-classic = "Use a classic HOG detector with one single filter."
+-e = "Set trainings epsilon as acceptance criteria  0.1 to 0.01 should be plenty accurate.", 1 // takes 1 argument
+-c = "Set trainings C for SVM accepted values are 0.000001 to 1000000, default is 1, higher value of C encourages overfitting to the trainings data", 1
+-h = "Shows available command line options."
+-in = "This option can be used run a pre-defined training/test, option requires one parameter, e.g. TEST1, TRAINING1", 1
+
+Further a lot of the arguments are specified in the HOGconfig.txt file. Make sure the listed directory in that file point to the correct data sets and detectors.
+You can than easily run a pre-set experiment by referring to the given tag, for example:
+fHOG_FullNaoDetector.exe --eval --classic --in Evaluation1 
+	= to run a batch evaluation of a set of .svm detectors 
+fHOG_FullNaoDetector.exe --pose --in Pose1
+	= to run a pose detection experiment based on classificators named Standing.svm, Sitting.svm, Lying.svm, Goalie.svm
+fHOG_FullNaoDetector.exe --test --threshold --in Test2
+	= to evaluate a single .svm for different acceptance thresholds
+fHOG_FullNaoDetector.exe --test --classic --in Test9
+	= to reduce an fHOG before evaluation
+fHOG_FullNaoDetector.exe --cross --nnr
+	= to train and cross-validate a number of nnr fHOG detectors for a set range of epsilon and c_values

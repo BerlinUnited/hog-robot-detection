@@ -1,0 +1,269 @@
+############## BASIC CONFIGS ########################
+author = Dominik Krienelke
+
+###############################################################################
+# The first set of configs are used as defaults for the different experiments.
+# Subtests e.g. Test1, Test2 can be run from command line using the -in argument 
+# or by copying the data into the default tags, e.g. Training. 
+###############################################################################
+
+# Input and output files for HOG training
+# A bigger C encourages it to fit the training data, but might lead to overfitting.
+# The trainer will run until the "objective gap" is less than a pre-defined epsilon, 0.1 to 0.01 should be plenty accurate, epsilon is equal to the sum of error terms epsilon_i * C, so the allowed error term of the SVM
+Training { 
+    directory = Tracking
+	fileTraining = Sitting.xml
+	fileTesting = Sitting.xml
+	SVM	{ 
+		epsilon = 0.01
+		c_value = 1000
+    }
+	detectorName = Sitting.svm
+}
+
+# Input and output files for HOG testing
+# Should use already learned HOG detectors on training images or videos
+Test { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409
+	fileTesting = testing.xml
+	detectorName = NaoDetector.svm
+}
+
+# Input and output files for HOG tracking test
+# Should use already learned HOG detectors on training videos tracking the Naos
+Tracking { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409\trackingvid
+	detectorName = NaoDetector.svm
+}
+
+# Use already learned HOG detectors for detecting Naos in videos
+Video { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409\trackingvid
+	detectorName = C100.000000Eps0.000001Fold2.svm
+}
+
+# Input and output files for HOG cross-validation tests
+CrossValidation { 
+    directory = Cross-Validation
+}
+
+# Input files for HOG batch evaluations
+# directory should contain batch of .svm files to evaluate, as well as evaluation.xml containing test images
+# classicness determines how much the fHOG should be converted into a classic HOG, 1.0 is fully, 0.0 leaves it untouched.
+# filterstrength raises the lower threshold for removed seperate filters
+Evaluation { 
+    directory = Evaluation
+	filterstrength = 0.5
+	classicness = 0.4
+	startthreshold = -5
+	endthreshold = 5
+	treshholdstep = 0.25
+	fileEvaluation = evaluation.xml
+}
+
+# Input and output files for pose detection
+# Searches directory for classificators named Standing.svm, Sitting.svm, Lying.svm, Goalie.svm and applies those to the
+# test image set in order to classify different robot poses.
+Pose { 
+    directory = 2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log2016-03-30-test-naodevils - half1
+	fileTesting = Standing.xml
+}
+
+# Start values for active HOG
+# Defines scaling window size and the scaling of the image pyramide, downsamples the image at a ratio of scaling-1/scaling 
+HOG { 
+	winSizeWidth = 45
+	winSizeHeight = 64
+	scaling = 6
+    details { 
+        author = Dominik Krienelke
+    }
+}
+
+
+############## TRAINING CONFIGS #####################
+# Additional training setups
+Training1 { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409
+	fileTraining = training.xml
+	fileTesting = testing.xml
+	SVM	{ 
+		epsilon = 0.1
+		c_value = 10
+    }
+	detectorName = NaoDetector.svm
+}
+
+Training2 { 
+    directory = 2015-07-RoboCup-Chinagame_logs2015-07-18-setup-day2-TestGameDortmund - GOPR0114
+	fileTraining = training.xml
+	fileTesting = testing.xml
+	SVM	{ 
+		epsilon = 0.1
+		c_value = 10
+    }
+	detectorName = NaoDetector.svm
+}
+
+Training4 { 
+    directory = 2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log2016-03-30-test-naodevils - half1
+	fileTraining = lying.xml
+	fileTesting = lying.xml
+	SVM	{ 
+		epsilon = 0.01
+		c_value = 1000
+    }
+	detectorName = Lying.svm
+}
+
+############## TEST CONFIGS #####################
+# Should use already learned HOG detectors on training images or videos
+Test1 { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409
+	fileTesting = testing.xml
+	detectorName = NaoDetector.svm
+}
+
+Test2 { 
+    directory = 2015-07-RoboCup-Chinagame_logs2015-07-18-setup-day2-TestGameDortmund - GOPR0114
+	fileTesting = testing.xml
+	detectorName = C1000.000000Eps0.000001Fold2.svm
+}
+
+Test3 { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409
+	fileTesting = testing.xml
+	detectorName = C1000.000000Eps0.000001Fold2.svm
+}
+
+Test4 { 
+    directory = 2016-01-16-Make-Munichgame2016-01-16-htwk - half1
+	fileTesting = all.xml
+	detectorName = C1000.000000Eps0.010000Fold1.svm
+}
+
+Test5 { 
+    directory = 2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log-2016-04-02-quarterFinals-naodevils - half2
+	fileTesting = all.xml
+	detectorName = C1000.000000Eps0.010000Fold1.svm
+}
+
+Test6 { 
+    directory = 2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log2016-03-30-test-naodevils - half1
+	fileTesting = all.xml
+	detectorName = C1000.000000Eps0.010000Fold1.svm
+}
+
+Test7 { 
+    directory = rasen-ball-robot-move-5-best-24x24\ball
+	fileTesting = ball.xml
+	detectorName = BallDetector.svm
+}
+
+Test8 { 
+    directory = BallImagesHTWK\true\cut100x100
+	fileTesting = all.xml
+	detectorName = BallDetector.svm
+}
+
+Test9 { 
+    directory = 2015-07-RoboCup-Chinagame_logs2015-07-18-setup-day2-TestGameDortmund - GOPR0114
+	fileTesting = testing.xml
+	detectorName = C100.000000Eps0.000001Fold2.svm
+}
+
+Test10 { 
+    directory = Nao POV Videos\1Nao100cm-gettingup3c
+	fileTesting = all.xml
+	detectorName = C1000000.000000Eps0.000010Fold1.svm
+}
+
+Test11 { 
+    directory = Nao POV Videos\3Nao-gamesituationB10
+	fileTesting = all.xml
+	detectorName = C1000000.000000Eps0.000010Fold1.svm
+}
+
+Test12 { 
+    directory = Nao POV Videos\Test
+	fileTesting = all.xml
+	detectorName = Best F0,5 - C100.000000Eps0.010000Fold1.svm
+}
+
+############## TRACKING CONFIGS #####################
+# Should use already learned HOG detectors for tracking Naos in videos
+Tracking1 { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409\trackingvid
+	detectorName = NaoDetector.svm
+}
+
+############## Video CONFIGS #####################
+# Use already learned HOG detectors for detecting Naos in videos
+Video1 { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409\trackingvid
+	detectorName = C100.000000Eps0.000001Fold2.svm
+}
+
+############## HOG CONFIGS ##########################
+# Start values for my standard HOG
+HOG1 { 
+	winSizeWidth = 45
+	winSizeHeight = 64
+	scaling = 6
+    details { 
+        author = Dominik Krienelke
+    }
+}
+
+HOG2 { 
+	winSizeWidth = 20
+	winSizeHeight = 20
+	scaling = 6
+    details { 
+        author = Dominik Krienelke
+    }
+}
+
+############## CROSS-VALIDATION CONFIGS ##########################
+# Input and output files for HOG cross-validation tests
+CrossValidation1 { 
+    directory = 2015-07-20-competition-day2-RoboCanes - GOPR4409\cross
+}
+
+CrossValidation2 { 
+    directory = rasen-ball-robot-move-5-best-24x24\ball\cross
+}
+
+############## EVALUATION CONFIGS ##########################
+# Input files for HOG batch evaluations
+# directory should contain batch of .svm files to evaluate, as well as evaluation.xml containing test images
+# classicness determines how much the fHOG should be converted into a classic HOG, 1.0 is fully, 0.0 leaves it untouched.
+# filterstrength raises the lower threshold for removed seperate filters
+Evaluation1 { 
+    directory = Nao POV Videos\Evaluation
+	filterstrength = 0.6
+	classicness = 0.9
+	startthreshold = -5
+	endthreshold = 5
+	treshholdstep = 0.25
+	fileEvaluation = evaluation.xml
+}
+
+Evaluation2 { 
+    directory = Evaluation
+	filterstrength = 0.5
+	classicness = 0.4
+	startthreshold = -5
+	endthreshold = 5
+	treshholdstep = 0.25
+	fileEvaluation = evaluation - min.xml
+}
+
+############## POSE CONFIGS ##########################
+# Input and output files for pose detection
+# Searches directory for classificators named Standing.svm, Sitting.svm, Lying.svm, Goalie.svm and applies those to the
+# test image set in order to classify different robot poses.
+Pose1 { 
+    directory = 2016-03-29-RoboCup-EuropeanOpen-Eindhovengame-log2016-03-30-test-naodevils - half1
+	fileTesting = Standing.xml
+}
